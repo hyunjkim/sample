@@ -1,0 +1,41 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+    <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
+        <vmap:AdSource id="preroll-ad" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3"><![CDATA[
+                http://fsdev.jtbc.joins.com/app/google_jtbcmp4.xml
+                ]]></vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+    <vmap:AdBreak timeOffset="00:10:00" breakType="linear" breakId="midroll">
+        <vmap:AdSource id="ad" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3"><![CDATA[
+                http://fsdev.jtbc.joins.com/app/google_jtbcmp4.xml
+                ]]></vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+    <vmap:AdBreak timeOffset="00:20:00" breakType="linear" breakId="midroll">
+        <vmap:AdSource id="ad" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3"><![CDATA[
+                http://fsdev.jtbc.joins.com/app/google_jtbcmp4.xml
+                ]]></vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+    <vmap:AdBreak timeOffset="00:30:00" breakType="linear" breakId="midroll">
+        <vmap:AdSource id="ad" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3"><![CDATA[
+                http://fsdev.jtbc.joins.com/app/google_jtbcmp4.xml
+                ]]></vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+
+
+    <vmap:AdBreak timeOffset="00:40:00" breakType="linear" breakId="midroll">
+        <vmap:AdSource id="ad" allowMultipleAds="false" followRedirects="true">
+            <vmap:AdTagURI templateType="vast3"><![CDATA[
+                https://pubads.g.doubleclick.net/gampad/ads?slotname=/124319096/external/ad_rule_samples&sz=640x480&ciu_szs=300x250&unviewed_position_start=1&output=xml_vast3&impl=s&env=vp&gdfp_req=1&ad_rule=0&cue=15000&vad_type=linear&vpos=midroll&pod=2&mridx=1&ppos=1&min_ad_duration=0&max_ad_duration=30000&vrid=6376&cust_params=sample_ar%3Dpremidpostpod%26deployment%3Dgmf-js&url=https://googleads.github.io/videojs-ima/examples/autoplay/&is_amp=0&adk=195590520&correlator=2299622947144259&scor=3190932528678012&ged=ve4_td1_tt0_pd1_la1000_er0.0.0.0_vi0.0.740.1597_vp0_eb16491&osd=2&frm=0&video_doc_id=short_onecue&cmsid=496&sdkv=h.3.195.4&sdki=3c0d&mpt=videojs-ima&mpv=1.2.1&sdr=1&vpa=auto&vpmute=false&eid=420706009,495644009&u_so=l&afvsz=200x200,250x250,300x250,336x280,450x50,468x60,480x70&kfa=0&tfcd=0
+                ]]></vmap:AdTagURI>
+        </vmap:AdSource>
+    </vmap:AdBreak>
+</vmap:VMAP>
