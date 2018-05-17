@@ -1,0 +1,76 @@
+<VAST version="3.0">
+	<Ad id="285" sequence="1">
+		<InLine>
+			<AdSystem>NetInsight VIDEO AD SERVER</AdSystem>
+			<AdTitle>NetInsight VIDEO AD</AdTitle>
+			<Impression>
+				<![CDATA[
+				http://ad.imp.joins.com/NetInsight/event/imp/BCc3ySsD_D_qMDHiIz07DjlKBlaogV1gqkJnagqu_iKGAbY1Z3U2ODVTaFFNYXExWEYxcndzemxRAstB1r9FrQMElgayanRiY192L3ZvZC92b2RAdm9kB81vVAjNAQMJhqNfcnTLQda_Ra0DBJajcGlkoKNhcHABpF91aWTZb1VRanNLZHpMRUlOODJFTUp0cDZBX2luSkRHNDBfM2hJa1lqVmhLMi11Nm1FQU01bWpTYkNBYlo2ZFZBeFJrbzNWMUpLTmtkdkxYVk1Razl3U25WQkFzdEIxcjlGclFMelB3UExRZGFfUmEwQzh6OKRfY2lktmNrRnE4VEFnVENhR3o0SmRCOWJsRGejdGlkti1sVjB4dG1FU2syaFVrZ0tvNDRCY3c
+				]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear skipoffset="00:00:15">
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start">
+								<![CDATA[
+								http://ad.imp.joins.com/NetInsight/event/str/BCc3ySsD_D_qMDHiIz07DjlKBlaogV1gqkJnagqu_iKGAbY1Z3U2ODVTaFFNYXExWEYxcndzemxRAstB1r9FrQMElgayanRiY192L3ZvZC92b2RAdm9kB81vVAjNAQMJhqNfcnTLQda_Ra0DBJajcGlkoKNhcHABpF91aWTZb1VRanNLZHpMRUlOODJFTUp0cDZBX2luSkRHNDBfM2hJa1lqVmhLMi11Nm1FQU01bWpTYkNBYlo2ZFZBeFJrbzNWMUpLTmtkdkxYVk1Razl3U25WQkFzdEIxcjlGclFMelB3UExRZGFfUmEwQzh6OKRfY2lktmNrRnE4VEFnVENhR3o0SmRCOWJsRGejdGlkti1sVjB4dG1FU2syaFVrZ0tvNDRCY3c
+								]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[
+								http://ad.imp.joins.com/NetInsight/event/p25/BCc3ySsD_D_qMDHiIz07DjlKBlaogV1gqkJnagqu_iKGAbY1Z3U2ODVTaFFNYXExWEYxcndzemxRAstB1r9FrQMElgayanRiY192L3ZvZC92b2RAdm9kB81vVAjNAQMJhqNfcnTLQda_Ra0DBJajcGlkoKNhcHABpF91aWTZb1VRanNLZHpMRUlOODJFTUp0cDZBX2luSkRHNDBfM2hJa1lqVmhLMi11Nm1FQU01bWpTYkNBYlo2ZFZBeFJrbzNWMUpLTmtkdkxYVk1Razl3U25WQkFzdEIxcjlGclFMelB3UExRZGFfUmEwQzh6OKRfY2lktmNrRnE4VEFnVENhR3o0SmRCOWJsRGejdGlkti1sVjB4dG1FU2syaFVrZ0tvNDRCY3c
+								]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[
+								http://ad.imp.joins.com/NetInsight/event/p50/BCc3ySsD_D_qMDHiIz07DjlKBlaogV1gqkJnagqu_iKGAbY1Z3U2ODVTaFFNYXExWEYxcndzemxRAstB1r9FrQMElgayanRiY192L3ZvZC92b2RAdm9kB81vVAjNAQMJhqNfcnTLQda_Ra0DBJajcGlkoKNhcHABpF91aWTZb1VRanNLZHpMRUlOODJFTUp0cDZBX2luSkRHNDBfM2hJa1lqVmhLMi11Nm1FQU01bWpTYkNBYlo2ZFZBeFJrbzNWMUpLTmtkdkxYVk1Razl3U25WQkFzdEIxcjlGclFMelB3UExRZGFfUmEwQzh6OKRfY2lktmNrRnE4VEFnVENhR3o0SmRCOWJsRGejdGlkti1sVjB4dG1FU2syaFVrZ0tvNDRCY3c
+								]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[
+								http://ad.imp.joins.com/NetInsight/event/p75/BCc3ySsD_D_qMDHiIz07DjlKBlaogV1gqkJnagqu_iKGAbY1Z3U2ODVTaFFNYXExWEYxcndzemxRAstB1r9FrQMElgayanRiY192L3ZvZC92b2RAdm9kB81vVAjNAQMJhqNfcnTLQda_Ra0DBJajcGlkoKNhcHABpF91aWTZb1VRanNLZHpMRUlOODJFTUp0cDZBX2luSkRHNDBfM2hJa1lqVmhLMi11Nm1FQU01bWpTYkNBYlo2ZFZBeFJrbzNWMUpLTmtkdkxYVk1Razl3U25WQkFzdEIxcjlGclFMelB3UExRZGFfUmEwQzh6OKRfY2lktmNrRnE4VEFnVENhR3o0SmRCOWJsRGejdGlkti1sVjB4dG1FU2syaFVrZ0tvNDRCY3c
+								]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[
+								http://ad.imp.joins.com/NetInsight/event/cmp/BCc3ySsD_D_qMDHiIz07DjlKBlaogV1gqkJnagqu_iKGAbY1Z3U2ODVTaFFNYXExWEYxcndzemxRAstB1r9FrQMElgayanRiY192L3ZvZC92b2RAdm9kB81vVAjNAQMJhqNfcnTLQda_Ra0DBJajcGlkoKNhcHABpF91aWTZb1VRanNLZHpMRUlOODJFTUp0cDZBX2luSkRHNDBfM2hJa1lqVmhLMi11Nm1FQU01bWpTYkNBYlo2ZFZBeFJrbzNWMUpLTmtkdkxYVk1Razl3U25WQkFzdEIxcjlGclFMelB3UExRZGFfUmEwQzh6OKRfY2lktmNrRnE4VEFnVENhR3o0SmRCOWJsRGejdGlkti1sVjB4dG1FU2syaFVrZ0tvNDRCY3c
+								]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[
+								http://ad.imp.joins.com/NetInsight/event/skp/BCc3ySsD_D_qMDHiIz07DjlKBlaogV1gqkJnagqu_iKGAbY1Z3U2ODVTaFFNYXExWEYxcndzemxRAstB1r9FrQMElgayanRiY192L3ZvZC92b2RAdm9kB81vVAjNAQMJhqNfcnTLQda_Ra0DBJajcGlkoKNhcHABpF91aWTZb1VRanNLZHpMRUlOODJFTUp0cDZBX2luSkRHNDBfM2hJa1lqVmhLMi11Nm1FQU01bWpTYkNBYlo2ZFZBeFJrbzNWMUpLTmtkdkxYVk1Razl3U25WQkFzdEIxcjlGclFMelB3UExRZGFfUmEwQzh6OKRfY2lktmNrRnE4VEFnVENhR3o0SmRCOWJsRGejdGlkti1sVjB4dG1FU2syaFVrZ0tvNDRCY3c
+								]]>
+							</Tracking>
+							<Tracking event="progress" offset="00:00:00">
+								<![CDATA[
+								http://ad.imp.joins.com/NetInsight/event/prg/7ALPMTheTKvG8qpMSsRwzhfPwkefoq6w26ZiV84j_neHAbY1Z3U2ODVTaFFNYXExWEYxcndzemxRAstB1r9FrQMElgayanRiY192L3ZvZC92b2RAdm9kB81vVAjNAQMJhqNfcnTLQda_Ra0DBJajcGlkoKNhcHABpF91aWTZb1VRanNLZHpMRUlOODJFTUp0cDZBX2luSkRHNDBfM2hJa1lqVmhLMi11Nm1FQU01bWpTYkNBYlo2ZFZBeFJrbzNWMUpLTmtkdkxYVk1Razl3U25WQkFzdEIxcjlGclFMelB3UExRZGFfUmEwQzh6OKRfY2lktmNrRnE4VEFnVENhR3o0SmRCOWJsRGejdGlkti1sVjB4dG1FU2syaFVrZ0tvNDRCY3cKgaFvwA
+								]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickThrough>
+								<![CDATA[
+								https://www.dermo-cosmeshop.co.kr/event-av-antiaging-event-35.html?utm_source=youtube&utm_medium=video&utm_campaign=201505_Suncare_campaign&utm_content=link1&utm_brn=avene&utm_prd=%EC%95%84%EB%B2%A4%EB%8A%90%205%EC%9B%94%20%EC%84%A0%EC%BC%80%EC%96%B4%20%E
+								]]>
+							</ClickThrough>
+							<ClickTracking>
+								<![CDATA[
+								http://ad.imp.joins.com/NetInsight/event/clk/BCc3ySsD_D_qMDHiIz07DjlKBlaogV1gqkJnagqu_iKGAbY1Z3U2ODVTaFFNYXExWEYxcndzemxRAstB1r9FrQMElgayanRiY192L3ZvZC92b2RAdm9kB81vVAjNAQMJhqNfcnTLQda_Ra0DBJajcGlkoKNhcHABpF91aWTZb1VRanNLZHpMRUlOODJFTUp0cDZBX2luSkRHNDBfM2hJa1lqVmhLMi11Nm1FQU01bWpTYkNBYlo2ZFZBeFJrbzNWMUpLTmtkdkxYVk1Razl3U25WQkFzdEIxcjlGclFMelB3UExRZGFfUmEwQzh6OKRfY2lktmNrRnE4VEFnVENhR3o0SmRCOWJsRGejdGlkti1sVjB4dG1FU2syaFVrZ0tvNDRCY3c
+								]]>
+							</ClickTracking>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
+								<![CDATA[
+								http://api.wecandeo.com/video?k=BOKNS9AQWrHTMOkW8LIipHpHk4DFRfnICkmvVuKuNiiU0ew821H7oPrAieie&seq=-lV0xtmESk2hUkgKo44Bcw
+								]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
